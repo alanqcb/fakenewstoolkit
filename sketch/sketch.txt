@@ -1,0 +1,32 @@
+Fake news Toolkit
+1. Definir alvo adversário
+- gênero
+- viés econômico
+- idade
+- viés político
+- visão de mundo
+- declarações
+- o que defende
+- o que é contra
+
+2. definir meios: (a maneira como o público percebe as informações, não as necessidades desse meio)
+- jurídico
+- juventude
+- trabalhadores
+- sindicatos
+- movimentos sociais
+- empresários
+- comunidade acadêmica
+- jornalismo
+- ciência
+- religião
+- lobbys extras
+- indústria
+- armamentistas
+- aceitabilidade
+
+2. Criar Fake News personalizada
+- Fatos falsos
+- Opiniões falsas
+
+3. Verificação do sucesso
